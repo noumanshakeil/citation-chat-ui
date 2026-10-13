@@ -1,0 +1,13 @@
+{
+  "project": "citation-chat-ui",
+  "resource": "threads",
+  "samples": [
+    {
+      "id": "ct1",
+      "question": "Refund window?",
+      "sources": [
+        "policy#3"
+      ]
+    }
+  ]
+}
