@@ -1,1 +1,2 @@
-"""Backend package."""
+"""Citation Chat UI application package."""
+__version__ = "2.0.0"
